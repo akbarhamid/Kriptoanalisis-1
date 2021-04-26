@@ -9,9 +9,9 @@ def save2txt():
         original_stdout = sys.stdout
         with open('dbhash.txt', 'w') as file:
             sys.stdout = file
-            print('CHR                            HASH SHA256')
+            print('CHR HASH SHA256')
             print(
-                '======================================================================')
+                '++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++')
             print(hash_enum())
             # reset the standard output
             sys.stdout = original_stdout
