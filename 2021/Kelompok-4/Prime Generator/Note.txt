@@ -1,2 +1,1 @@
-membuat kode di dalam folder fork anda, lakukan pembangkitan bilangan prima dengan memasukkan bilangan acak yang besar
-membuat sebuah random number generator. dengan algoritma pembangkit bilangan acak apapun.
+membuat kode di dalam folder fork anda, lakukan pembangkitan bilangan prima dengan memasukkan bilangan acak yang besar membuat sebuah random number generator. dengan algoritma pembangkit bilangan acak apapun.
